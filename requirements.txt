@@ -1,4 +1,4 @@
-tamilmv-bot==0.1.0
+tamilmv-bot==0.2.1
 # ==🎉 v2.0 ======= WOODctaft ========
 python-dotenv
 pyTelegramBotAPI
