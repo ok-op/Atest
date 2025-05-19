@@ -1,1 +1,6 @@
 tamilmv-bot==0.1.0
+python-dotenv
+telebot
+requests
+beautifulsoup4
+flask
